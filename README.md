@@ -5,8 +5,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lukemew&show_icons=true&count_private=true&hide_border=true&title_color=bc13fe&icon_color=bc13fe&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Melo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemew&layout=compact&hide_border=true&title_color=bc13fe&text_color=bc13fe&bg_color=0d1117"/>
+  
   <a href="https://www.linkedin.com/in/lucas-melo-32a44b288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "lucasmelor65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
  
 ### Main skills:
